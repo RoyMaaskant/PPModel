@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+numpy<2.0.0
+pandas
+tqdm
+torch
+pytorch-lightning
+scikit-learn
+alpaca_trade_api
+transformers
+termcolor
+python_bitvavo_api
+tensorflow
